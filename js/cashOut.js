@@ -21,4 +21,4 @@ document.getElementById('btn-cash-out')
         else{
             alert('Failed to cash out , please  try again later ')
         }
-    })
+    });
